@@ -4,8 +4,6 @@
 
 <script setup>
 // eslint-disable-next-line no-unused-vars
-import { ref } from 'vue'
-
 </script>
 
 <style>
