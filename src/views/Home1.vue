@@ -1,6 +1,6 @@
 <!-- eslint-disable -->
 <template>
-a
+
 </template>
 
 
